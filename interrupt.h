@@ -4,6 +4,6 @@
 void bcd(void);
 void anillo(void);
 void johnson(void);
-void 7seg(void);
+void d7seg(void);
 
 #endif
